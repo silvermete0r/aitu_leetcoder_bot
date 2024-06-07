@@ -1,0 +1,6 @@
+requests
+python-dotenv
+flask
+prettytable
+db-sqlite3
+pyTelegramBotAPI
